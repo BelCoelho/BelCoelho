@@ -3,6 +3,13 @@
 - 💻 Trabalhando como assistente administrativo;
 - 📚 Cursando o 4º semestre de Automação Industrial.
 
+# Objetivos
+
+- 🤖 Trabalhar na parte de Automação Industrial;
+- 💻 Programar CLP's;
+- ⚡ Trabalhar com Elétrica e Eletrônica;
+- 👩🏾‍💻 Aprender linguagens de programação no tempo livre.
+
 ## Formação
 - Técnico em Mecatrônica;
 - Tecnólogo em Automação Industrial (Estudando).
@@ -24,6 +31,3 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/isabela-coelho-dos-santos-ba7321203)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/BelCoelho)
-
-
-
